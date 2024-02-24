@@ -1,0 +1,17 @@
+body {
+    background-color: olive;
+}
+
+h1 {
+    color: red;
+}
+
+.friend {
+    background-color: blue;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.friend h3 {
+    text-transform: uppercase;
+}
